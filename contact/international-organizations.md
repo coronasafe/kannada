@@ -4,7 +4,7 @@ description: >-
   are involved in the prevention, containment and eradication of the virus.
 ---
 
-# International Organizations
+# ಅಂತರರಾಷ್ಟ್ರೀಯ ಸಂಸ್ಥೆಗಳು
 
 ## World Health Organization
 

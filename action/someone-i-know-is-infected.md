@@ -1,4 +1,4 @@
-# Someone I know is Infected
+# ನನಗೆ ತಿಳಿದಿರುವ ಯಾರಾದರೂ ಸೋಂಕಿತರಾಗಿದ್ದಾರೆ
 
 Household members, intimate partners, and caregivers in a nonhealthcare setting may have close contact with a person with symptomatic, laboratory-confirmed COVID-19 or a person under investigation. Close contacts should monitor their health; they should call their healthcare provider right away if they develop symptoms suggestive of COVID-19 \(e.g., fever, cough, shortness of breath\)
 

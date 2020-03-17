@@ -2,7 +2,7 @@
 description: How to contribute to make this guide better.
 ---
 
-# Contribute
+# ಕೊಡುಗೆ ನೀಡಿ
 
 This is a crowd sourced guide and is meant to be always updated with the latest development in COVID-19. For that we need help from awesome contributors and volunteers.
 

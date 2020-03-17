@@ -5,7 +5,7 @@ description: >-
   determined to be medically stable to go home.
 ---
 
-# Home Isolation
+# ಮನೆಯಲ್ಲಿ ಪ್ರತ್ಯೇಕವಾಗಿರುವಾಗ
 
 You should follow the prevention steps below until a healthcare provider or local or state health department says you can return to your normal activities.
 

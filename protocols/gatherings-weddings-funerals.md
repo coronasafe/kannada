@@ -4,7 +4,7 @@ description: >-
   amidst COVID-19
 ---
 
-# Gatherings, Weddings, Funerals
+# ಸಭೆಗಳು, ವಿವಾಹಗಳು, ಅಂತ್ಯಕ್ರಿಯೆಗಳು
 
 {% hint style="info" %}
 Work in Progress, refer to: [https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/index.html](https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/index.html)

@@ -5,7 +5,7 @@ description: >-
   spreading to people in your home and community.
 ---
 
-# I am Infected
+# ನಾನು ಸೋಂಕಿಗೆ ಒಳಗಾಗಿದ್ದೇನೆ
 
 ### Stay home except to get medical care
 
