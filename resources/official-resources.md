@@ -4,5 +4,5 @@ description: >-
   Organisations.
 ---
 
-# Official Resources
+# ಅಧಿಕೃತ ಸಂಪನ್ಮೂಲಗಳು
 

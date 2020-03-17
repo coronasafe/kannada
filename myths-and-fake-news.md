@@ -2,7 +2,7 @@
 description: Lists the common myths about COVID-19
 ---
 
-# Myths and Fake News
+# ಕಟ್ಟುಕಥೆಗಳು ಮತ್ತು ಸುಳ್ಳು ಸುದ್ದಿಗಳು
 
 There are a lot of myths and fake news that are both dangerous to yourselves and others circulating on Social Media. Never share any information that you have not verified yourself or that isn't from official sources, it will do more harm than good.
 

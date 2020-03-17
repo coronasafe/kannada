@@ -1,34 +1,32 @@
 ---
-description: >-
-  A verified crowd-sourced guide to staying safe in Coronavirus disease
-  (COVID-19) outbreak.
+description: ಕರೋನಾ ವೈರಸ್ನಿಂದ(COVID-19) ಸುರಕ್ಷಿತವಾಗಿರಲು ಪರಿಶೀಲಿಸಲ್ಪಟ್ಟ ಕ್ರೌಡ್-ಸೋರ್ಸ್ಡ್ ಗೈಡ್.
 ---
 
-# Corona Safe
+# ಕರೋನಾ ಸುರಕ್ಷಿತ
 
 ![](.gitbook/assets/coronasafe-logo.png)
 
-Coronaviruses refer to the family of viruses that are known to cause respiratory infections in both animals and humans. There are seven coronaviruses that are currently known to affect humans, out of which four are commonly found across the globe and cause mild cold like symptoms only. The remaining three are known to cause severe diseases such as [Middle East Respiratory Syndrome, or MERS caused by MERS-CoV](https://www.who.int/emergencies/mers-cov/en/), [Severe Acute Respiratory Syndrome caused by SARS-CoV](https://www.who.int/csr/sars/en/) and finally [Coronavirus Disease 2019 caused by SARS-CoV-2](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+ಕರೋನವೈರಸ್ಗಳು ವೈರಸ್ಗಳ ಕುಟುಂಬವನ್ನು ಉಲ್ಲೇಖಿಸುತ್ತವೆ, ಅವು ಪ್ರಾಣಿಗಳು ಮತ್ತು ಮಾನವರಲ್ಲಿ ಉಸಿರಾಟದ ಸೋಂಕನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಪ್ರಸ್ತುತ ಮಾನವರ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುವ ಏಳು ಕೊರೊನಾವೈರಸ್‌ಗಳಿವೆ, ಅವುಗಳಲ್ಲಿ ನಾಲ್ಕು ಸಾಮಾನ್ಯವಾಗಿ ಜಗತ್ತಿನಾದ್ಯಂತ ಕಂಡುಬರುತ್ತವೆ ಮತ್ತು ಸೌಮ್ಯ ಶೀತವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಉಳಿದ ಮೂರು [ಮಧ್ಯಪ್ರಾಚ್ಯ ಉಸಿರಾಟದ ಸಿಂಡ್ರೋಮ್ ಅಥವಾ MERS-CoV ಯಿಂದ ಉಂಟಾಗುವ MERS](https://www.who.int/emergencies/mers-cov/en/), [SARS-CoV ನಿಂದ ಉಂಟಾಗುವ ತೀವ್ರವಾದ ಉಸಿರಾಟದ ಸಿಂಡ್ರೋಮ್](https://www.who.int/csr/sars/en/) ಮತ್ತು ಅಂತಿಮವಾಗಿ [SARS-CoV-2 ನಿಂದ ಉಂಟಾಗುವ ಕೊರೊನಾವೈರಸ್ 2019 ](https://www.cdc.gov/coronavirus/2019-ncov/index.html)ನಂತಹ ತೀವ್ರ ಕಾಯಿಲೆಗಳಿಗೆ ಕಾರಣವೆಂದು ತಿಳಿದುಬಂದಿದೆ.
 
-[COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) is a novel coronavirus that has never been previously identified in humans. It is zoonotic in nature, which means it can be transmitted from animal to human, and human to human interactions. It was first [reported](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/) from Wuhan City on 31 December 2019 in China. The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea.
+[COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) ಎಂಬುದು ಮಾನವರಲ್ಲಿ ಹಿಂದೆಂದೂ ಗುರುತಿಸಲಾಗದ ಕರೋನವೈರಸ್. ಇದು ಸ್ವಭಾವತಃ ಝೋನೋಟಿಕ್ ಆಗಿದೆ, ಇದರರ್ಥ ಇದು ಪ್ರಾಣಿಗಳಿಂದ ಮನುಷ್ಯರಿಗೆ ಮತ್ತು ಮನುಷ್ಯರಿಂದ ಮಾನವ ಸಂವಹನಗಳಿಗೆ ಹರಡಬಹುದು. ಇದು ಮೊದಲ ಬಾರಿಗೆ ವುಹಾನ್ ಸಿಟಿಯಿಂದ 31 ಡಿಸೆಂಬರ್ 2019 ರಂದು ಚೀನಾದಲ್ಲಿ [ವರದಿಯಾಗಿದೆ](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/). COVID-19 ನ ಸಾಮಾನ್ಯ ಲಕ್ಷಣಗಳು ಜ್ವರ, ದಣಿವು ಮತ್ತು ಒಣ ಕೆಮ್ಮು. ಕೆಲವು ರೋಗಿಗಳಿಗೆ ನೋವು, ಮೂಗಿನ ದಟ್ಟಣೆ, ಸ್ರವಿಸುವ ಮೂಗು, ಗಂಟಲು ನೋವು ಅಥವಾ ಅತಿಸಾರ ಇರಬಹುದು.
 
-Around 80% of the infected show only mild symptoms and recover with standard medical attention. Older people and those with an underlying or previous medical condition develop serious symptoms and without medical intervention can prove fatal. Around 14% of the infected become seriously ill and 5% critical as per the studies.
+ಸುಮಾರು 80% ಸೋಂಕಿತರು ಸೌಮ್ಯ ರೋಗಲಕ್ಷಣಗಳನ್ನು ಮಾತ್ರ ತೋರಿಸುತ್ತಾರೆ ಮತ್ತು ಪ್ರಮಾಣಿತ ವೈದ್ಯಕೀಯ ಆರೈಕೆಯೊಂದಿಗೆ ಚೇತರಿಸಿಕೊಳ್ಳುತ್ತಾರೆ. ವಯಸ್ಸಾದವರು ಮತ್ತು ಆರೋಗ್ಯ ತೊಂದರೆ ಇರುವವರು ತೀವ್ರ ಅನಾರೋಗ್ಯಕ್ಕೆ ಒಳಗಾಗುತ್ತಾರೆ ಮತ್ತು ವೈದ್ಯಕೀಯ ಆರೈಕೆ ಇಲ್ಲದಿದ್ದರೆ ಮಾರಕವಾಗಬಹುದು. ಅಧ್ಯಯನದ ಪ್ರಕಾರ ಸೋಂಕಿತರಲ್ಲಿ ಸುಮಾರು 14% ಜನರು ತೀವ್ರ ಅನಾರೋಗ್ಯಕ್ಕೆ ಒಳಗಾದರೆ, 5% ಜನರಲ್ಲಿ ಇದು ಮಾರಕವಾಗಿದೆ.
 
-The virus has affected more than 100,000 globally and has caused more than 3000 deaths. WHO has given the status of Very High Risk at the Global Level.
+ಈ ವೈರಸ್ ಜಾಗತಿಕವಾಗಿ 100,000ಕ್ಕೂ ಹೆಚ್ಚು ಜನರನ್ನು ಬಾಧಿಸಿದೆ ಮತ್ತು 3000ಕ್ಕೂ ಹೆಚ್ಚು ಸಾವುಗಳಿಗೆ ಕಾರಣವಾಗಿದೆ. ಡಬ್ಲ್ಯು.ಎಚ್‌.ಒ ಇದನ್ನು ಜಾಗತಿಕವಾಗಿ ತುಂಬಾ ಅಪಾಯಕಾರಿ ಎಂದು ಗುರುತಿಸಿದೆ.
 
 {% hint style="danger" %}
-This guide is still a Work In Progress. Until some sections are complete we will be providing the official links for reference. You have to follow those instructions until the guide gets updated.
+ಈ ಮಾರ್ಗದರ್ಶಿ ಇನ್ನೂ ಪ್ರಗತಿಯಲ್ಲಿದೆ. ಕೆಲವು ವಿಭಾಗಗಳು ಪೂರ್ಣಗೊಳ್ಳುವವರೆಗೆ ನಾವು ಉಲ್ಲೇಖಕ್ಕಾಗಿ ಅಧಿಕೃತ ಲಿಂಕ್‌ಗಳನ್ನು ಒದಗಿಸುತ್ತೇವೆ. ಮಾರ್ಗದರ್ಶಿ ನವೀಕರಿಸುವವರೆಗೆ ನೀವು ಆ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಬೇಕು.
 {% endhint %}
 
-## Why does this guide exist ?
+## ಈ ಮಾರ್ಗದರ್ಶಿ ಏಕೆ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ?
 
-> **This guide is intended as a hub to collect information regarding preventive measures, information about the virus strain and official resources. These instructions are compiled from a variety of official sources.**
+> ತಡೆಗಟ್ಟುವ ಕ್ರಮಗಳು, ವೈರಸ್ ತಳಿ ಮತ್ತು ಅಧಿಕೃತ ಸಂಪನ್ಮೂಲಗಳ ಬಗ್ಗೆ ಮಾಹಿತಿಯನ್ನು ಸಂಗ್ರಹಿಸುವುದು ಈ ಮಾರ್ಗದರ್ಶಿಯ ಉದ್ದೇಶ. ಈ ಸೂಚನೆಗಳನ್ನು ವಿವಿಧ ಅಧಿಕೃತ ಮೂಲಗಳಿಂದ ಸಂಗ್ರಹಿಸಲಾಗಿದೆ.
 
-COVID-19 is a novel corona virus, which means there isn't that much amount of information and public awareness about it. Most of the information is spread across a lot of independent governmental and non-governmental websites. There is also a lot of fake news and incorrect information circulating on Social Media about COVID-19 many of them life threatening.
+COVID-19 ಒಂದು ಹೊಸ ಕರೋನಾ ವೈರಸ್ ಆಗಿದೆ, ಆದ್ದರಿಂದ ಅದರ ಬಗ್ಗೆ ಹೆಚ್ಚಿನ ಮಾಹಿತಿ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಜಾಗೃತಿ ಇಲ್ಲ. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಳು ಸಾಕಷ್ಟು ಸ್ವತಂತ್ರ ಸರ್ಕಾರಿ ಮತ್ತು ಸರ್ಕಾರೇತರ ವೆಬ್‌ಸೈಟ್‌ಗಳಲ್ಲಿ ಹರಡಿದೆ. COVID-19 ಬಗ್ಗೆ ಸಾಕಷ್ಟು ಸುಳ್ಳು ಸುದ್ದಿಗಳು ಮತ್ತು ತಪ್ಪಾದ ಮಾಹಿತಿಗಳು ಕೂಡ ಸೋಷಿಯಲ್ ಮೀಡಿಯಾದಲ್ಲಿ ಹರಿದಾಡುತ್ತಿವೆ.
 
-This guide aggregates all that information into a single hub and distills into a user friendly format. This guide is also localized into many regional and national languages for a wider audience. We are always looking for contributors, you can [help out here](https://www.coronasafe.in/contribute).
+ಈ ಮಾರ್ಗದರ್ಶಿ ಆ ಎಲ್ಲ ಮಾಹಿತಿಯನ್ನು ಒಂದೇ ಕಡೆ ಒಟ್ಟುಗೂಡಿಸುತ್ತದೆ ಮತ್ತು ಬಳಕೆದಾರಿಗೆ ಸುಲಭವಾಗುವಂತೆ ಮಾಡುತ್ತದೆ. ಈ ಮಾರ್ಗದರ್ಶಿಯನ್ನು ಹೆಚ್ಚಿನ ಪ್ರಾದೇಶಿಕ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಭಾಷೆಗಳಿಗೆ ಸ್ಥಳೀಕರಿಸಲಾಗಿದೆ. ನಾವು ಯಾವಾಗಲೂ ಕೊಡುಗೆದಾರರನ್ನು ಹುಡುಕುತ್ತಿರುತ್ತೇವೆ, ನೀವು [ಇಲ್ಲಿ ಸಹಾಯ ಮಾಡಬಹುದು](https://www.coronasafe.in/contribute).
 
-## **Contents**
+## ಪರಿವಿಡಿ
 
 {% page-ref page="precautions.md" %}
 

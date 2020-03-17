@@ -2,7 +2,7 @@
 description: Describes the necessary preventive measures to the spread of COVID-19
 ---
 
-# Precautions and Preventive Measures
+# ಮುನ್ನೆಚ್ಚರಿಕೆಗಳು ಮತ್ತು ತಡೆಗಟ್ಟುವ ಕ್ರಮಗಳು
 
 Even though COVID-19 is a highly contagious disease, taking adequate precautions can help prevent you from being infected.
 

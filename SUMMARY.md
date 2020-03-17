@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Corona Safe](README.md)
-* [Precautions and Preventive Measures](precautions.md)
-* [Symptoms](symptoms.md)
+* [ಕರೋನಾ ಸುರಕ್ಷಿತ](README.md)
+* [ಮುನ್ನೆಚ್ಚರಿಕೆಗಳು ಮತ್ತು ತಡೆಗಟ್ಟುವ ಕ್ರಮಗಳು](precautions.md)
+* [ಲಕ್ಷಣಗಳು](symptoms.md)
 * [Old People and People with Medical Issues](old-and-people-with-medical-issues.md)
 * [Health Advisory Guidelines by Kerala Government](health-advisories-by-kerala-government.md)
-* [Myths and Fake News](myths-and-fake-news.md)
-* [FAQ](faq.md)
+* [ಕಟ್ಟುಕಥೆಗಳು ಮತ್ತು ಸುಳ್ಳು ಸುದ್ದಿಗಳು](myths-and-fake-news.md)
+* [ಸಾಮಾನ್ಯವಾಗಿ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳು \(FAQ\)](faq.md)
 * [Contribute](contribute.md)
 
 ## Actions to take when <a id="action"></a>
@@ -30,13 +30,13 @@
 
 ## Know COVID-19 <a id="know-covid-19-1"></a>
 
-* [COVID-19 Virus Strain](know-covid-19-1/covid-19-virus-strain.md)
+* [COVID-19 ವೈರಸ್ ತಳಿ](know-covid-19-1/covid-19-virus-strain.md)
 
 ## Resources
 
-* [Official Resources](resources/official-resources.md)
+* [ಅಧಿಕೃತ ಸಂಪನ್ಮೂಲಗಳು](resources/official-resources.md)
 * [Statewise list of confirmed cases.](https://www.mohfw.gov.in/)
 * [Effective tool to work remotely during Corona](resources/effective-tool-to-work-remotely-during-corona.md)
 * [Global Map of Corona Outbreak](https://coronavirus.jhu.edu/map.html)
-* [Sources](resources/sources.md)
+* [ಮೂಲಗಳು](resources/sources.md)
 
