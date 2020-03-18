@@ -1,57 +1,58 @@
 ---
 description: >-
-  COVID-19 proves fatal mostly in old and people with underlying medical issues
-  (both present and past). This guide outlines extra precautions to be taken.
+  COVID-19 ಹೆಚ್ಚಾಗಿ ವೃದ್ದರು ಮತ್ತು ವೈದ್ಯಕೀಯ ಸಮಸ್ಯೆಗಳಿರುವವರಲ್ಲಿ (ಪ್ರಸ್ತುತ ಮತ್ತು
+  ಹಿಂದಿನ ಎರಡೂ) ಮಾರಣಾಂತಿಕವೆಂದು ಸಾಬೀತಾಗಿದೆ. ಅವರುಗಳು ತೆಗೆದುಕೊಳ್ಳಬೇಕಾದ ಹೆಚ್ಚುವರಿ
+  ಮುನ್ನೆಚ್ಚರಿಕೆಗಳನ್ನು ಇಲ್ಲಿ ನೀಡಲಾಗಿದೆ.
 ---
 
 # ವೃದ್ಧರು ಮತ್ತು ಆರೋಗ್ಯ ಸಮಸ್ಯೆಗಳಿರುವವರು
 
-People above 70 years of age and people with medical issues either currently or previously are at the most risk from COVID-19. This data shows the elderly are at a much greater risk than young people.
+70 ವರ್ಷಕ್ಕಿಂತ ಮೇಲ್ಪಟ್ಟವರು ಮತ್ತು ಪ್ರಸ್ತುತವಾಗಿ ಅಥವಾ ಹಿಂದೆ ವೈದ್ಯಕೀಯ ಸಮಸ್ಯೆ ಉಳ್ಳವರು COVID-19 ನಿಂದ ಹೆಚ್ಚಿನ ಅಪಾಯದಲ್ಲಿದ್ದಾರೆ. ವಯಸ್ಸಾದವರು ಯುವಕರಿಗಿಂತ ಹೆಚ್ಚಿನ ಅಪಾಯದಲ್ಲಿದ್ದಾರೆ ಎಂದು ಈ ಕೆಳಗಿನ ಅಂಕಿ-ಸಂಖ್ಯೆ ತೋರಿಸುತ್ತದೆ
 
-| Age Group | Mortality Rate % |
+| ವಯಸ್ಸಿನ ಗುಂಪು | ಮರಣ ಪ್ರಮಾಣ % |
 | :--- | ---: |
 | 80 + | 14.8 % |
 | 70 - 79 | 8 % |
 | 50 - 59 | 1.3% |
 | 40 - | &lt; 0.5 % |
 
-With the available data there are no reported deaths of children under 10 years of age, and children seem to have a very low mortality rate from COVID-19.
+ಲಭ್ಯವಿರುವ ಮಾಹಿತಿಯ ಪ್ರಕಾರ 10 ವರ್ಷಕ್ಕಿಂತ ಕಡಿಮೆ ವಯಸ್ಸಿನ ಮಕ್ಕಳ ಮರಣ ವರದಿಯಾಗಿಲ್ಲ, ಮತ್ತು ಮಕ್ಕಳು COVID-19 ನಿಂದ ಕಡಿಮೆ ಮರಣ ಪ್ರಮಾಣವನ್ನು ಹೊಂದಿದ್ದಾರೆಂದು ತೋರುತ್ತದೆ.
 
-The people with preexisting medical conditions tell a similar story. People with underlying medical conditions are at a greater risk than people without any predisposed medical condition. \([source](https://ourworldindata.org/coronavirus#case-fatality-rate-of-covid-19-by-preexisting-health-conditions)\)
+ಯಾವುದೇ ವೈದ್ಯಕೀಯ ಸಮಸ್ಯೆ ಇಲ್ಲದವರಿಗಿಂತ ವೈದ್ಯಕೀಯ ಸಮಸ್ಯೆಯುಳ್ಳವರು ಹೆಚ್ಚಿನ ಅಪಾಯವನ್ನು ಹೊಂದಿರುತ್ತಾರೆ. \([ಮೂಲ](https://ourworldindata.org/coronavirus#case-fatality-rate-of-covid-19-by-preexisting-health-conditions)\)
 
-| Medical Condition | Mortality Rate % |
+| ವೈದ್ಯಕೀಯ ಸಮಸ್ಯೆ | ಮರಣ ಪ್ರಮಾಣ % |
 | :--- | ---: |
-| Cardiovascular Disease | 10.5 % |
-| Diabetes | 7.3 % |
-| Chronic Respiratory Disease | 6.3 % |
-| Hypertension | 6.0 % |
-| Cancer | 5.6 % |
-| No Health Condition | 0.9 % |
+| ಹೃದ್ರೋಗ | 10.5 % |
+| ಮಧುಮೇಹ | 7.3 % |
+| ದೀರ್ಘಕಾಲದ ಉಸಿರಾಟದ ತೊಂದರೆ | 6.3 % |
+| ಅಧಿಕ ರಕ್ತದೊತ್ತಡ\(ಹೈಪರ್ ಟೆನ್ಶನ್\) | 6.0 % |
+| ಕ್ಯಾನ್ಸರ್ | 5.6 % |
+| ಆರೋಗ್ಯ ಸಮಸ್ಯೆ ಇಲ್ಲ | 0.9 % |
 
-This all indicates that if you belong to any of the above said category you are at **High Risk** from COVID-19. You will need to take special precautions.
+ನೀವು ಮೇಲೆ ಹೇಳಿದ ಯಾವುದೇ ವರ್ಗಕ್ಕೆ ಸೇರಿದವರಾದರೆ ನೀವು COVID-19 ನಿಂದ **ಹೆಚ್ಚಿನ ಅಪಾಯದಲ್ಲಿದ್ದೀರಿ**. ನೀವು ವಿಶೇಷ ಮುನ್ನೆಚ್ಚರಿಕೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕಾಗುತ್ತದೆ.
 
-## Extra Precautions for People at Higher Risk
+## ಹೆಚ್ಚಿನ ಅಪಾಯದಲ್ಲಿರುವವರಿಗೆ ಹೆಚ್ಚುವರಿ ಮುನ್ನೆಚ್ಚರಿಕೆ ಕ್ರಮಗಳು
 
-The above said people in the high risk category should follow these extra precautions to the ones specified in the guide.
+ಹೆಚ್ಚಿನ ಅಪಾಯದಲ್ಲಿರುವವರು ಈ ಹೆಚ್ಚುವರಿ ಮುನ್ನೆಚ್ಚರಿಕೆಯ ಕ್ರಮಗಳ್ಳನ್ನು ಅನುಸರಿಸಬೇಕೆಂದು ತಿಳಿಸಲಾಗಿದೆ.
 
-1. Stock up on groceries and home supplies to avoid grocery visits and/or orders.
-2. Take extra care to maintain safe distance \(1 metre ideally\) from others
-3. When out in public on an absolutely necessary errand, limit contact and wash your hands often.
-4. Avoid crowds as much as possible
-5. Avoid all non essential intercity travels
+1. ಅಂಗಡಿಗಳಿಗೆ ಹೋಗುವುದನ್ನು ತಪ್ಪಿಸಲು ದಿನಸಿ ಮತ್ತು ಮನೆ ಸಾಮಾನುಗಳನ್ನು ಮೊದಲೇ ಸಂಗ್ರಹಿಸಿ.
+2. ಇತರರಿಂದ ದೂರವಿರಲು\(ಸುಮಾರು 1 ಮೀಟರ್\) ಹೆಚ್ಚಿನ ಕಾಳಜಿ ವಹಿಸಿ.
+3. ತೀರಾ ಅಗತ್ಯವಾದ ಕೆಲಸವಿದ್ದಲ್ಲಿ ಮಾತ್ರ ಹೊರಗೆ ಹೋಗಿ, ಹೊರಗಿದ್ದಾಗ ಇತರರ ಜೊತೆ ಸಂಪರ್ಕವನ್ನು ಮಿತಿಗೊಳಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಕೈಗಳನ್ನು ಆಗಾಗ್ಗೆ ತೊಳೆಯಿರಿ.
+4. ಜನಸಂದಣಿಯನ್ನು ಸಾಧ್ಯವಾದಷ್ಟು ತಪ್ಪಿಸಿ.
+5. ಎಲ್ಲಾ ಅನಿವಾರ್ಯವಲ್ಲದ ಪ್ರಯಾಣಗಳನ್ನು ತಪ್ಪಿಸಿ.
 
-### Supplies
+### ಸಾಮಾಗ್ರಿಗಳು
 
-1. Contact your healthcare provider \(doctor/clinic/hospital\) to ask about obtaining extra necessary medications in case of an outbreak - you might need to stay indoors for a prolonged period of time.
-2. Over the counter supplies \(tissues etc\) and medicines could be procured and kept ready in case you fall sick and need basic home treatment. Most people will be able to recover at home.
-3. Have enough household items on groceries on hand to avoid unnecessary outside contact
+1. ಹೆಚ್ಚುವರಿ ಅಗತ್ಯ ಔಷಧಿಗಳನ್ನು ಮೊದಲೇ ಪಡೆಯುವ ಬಗ್ಗೆ ನಿಮ್ಮ ಆರೋಗ್ಯ ಪೂರೈಕೆದಾರರನ್ನು \(ವೈದ್ಯರು / ಕ್ಲಿನಿಕ್ / ಆಸ್ಪತ್ರೆ\) ಸಂಪರ್ಕಿಸಿ - ಏಕಾಏಕಿಯಾಗಿ ವೈರಸ್ ಹರಡಿದ್ದಲ್ಲಿ ನೀವು ದೀರ್ಘಕಾಲದವರೆಗೆ ಮನೆಯೊಳಗೆ ಇರಬೇಕಾಗಬಹುದು.
+2. ನೀವು ಅನಾರೋಗ್ಯಕ್ಕೆ ಒಳಗಾದರೆ ಅಗತ್ಯವಾದ ಸಾಮಾಗ್ರಿಗಳು \(ಅಂಗಾಂಶಗಳು ಇತ್ಯಾದಿ\) ಮತ್ತು ಔಷಧಿಗಳನ್ನು ಸಂಗ್ರಹಿಸಿ ಸಿದ್ಧವಾಗಿರಬಹುದು. ಹೆಚ್ಚಿನ ಜನರು ಮನೆಯಲ್ಲಿ ಚೇತರಿಸಿಕೊಳ್ಳುವ ಸಾಧ್ಯತೆ ಇದೆ.
+3. ಅನಗತ್ಯವಾದ ಹೊರಗಿನ ಸಂಪರ್ಕವನ್ನು ತಪ್ಪಿಸಲು ಸಾಕಷ್ಟು ದಿನಸಿ ವಸ್ತುಗಳನ್ನು ಮನೆಯಲ್ಲಿ ಹೊಂದಿರಿ.
 
-### If COVID-19 is spreading in your area
+### ನಿಮ್ಮ ಪ್ರದೇಶದಲ್ಲಿ COVID-19 ಹರಡುತ್ತಿದ್ದರೆ
 
-Take extra measures to ensure safe distance from others
+ಇತರರಿಂದ ದೂರವಿರಲು ಹೆಚ್ಚುವರಿ ಕ್ರಮಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಿ
 
-1. Stay at home as much as possible
-2. Consider ways of getting supplies delivered to your home through
+1. ಸಾಧ್ಯವಾದಷ್ಟು ಮನೆಯಲ್ಲಿಯೇ ಇರಿ.
+2. ನಿಮ್ಮ ಮನೆಗೇ ಸಾಮಗ್ರಿಗಳನ್ನು ಪಡೆಯಲು ಬೇರೆ ವಿಧಾನಗಳನ್ನು ಪರಿಗಣಿಸಿ - ಸಂಬಂದಿಕರು, ಪರಿಚಯಸ್ತರು, ಜಾಲತಾಣಗಳು ಇತ್ಯಾದಿ.
 
-   family, social or commericial networks
+
 
