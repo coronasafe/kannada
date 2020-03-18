@@ -4,70 +4,70 @@ description: Frequently Asked Questions about COVID-19
 
 # ಸಾಮಾನ್ಯವಾಗಿ ಕೇಳಲಾಗುವ ಪ್ರಶ್ನೆಗಳು \(FAQ\)
 
-## What is a Corona Virus?
+## ಕರೋನಾ ವೈರಸ್ ಎಂದರೇನು?
 
-Coronaviruses are a large family of viruses which may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome \(MERS\) and Severe Acute Respiratory Syndrome \(SARS\). The most recently discovered coronavirus causes coronavirus disease COVID-19.
+ಕರೋನವೈರಸ್ಗಳು ವೈರಸ್ಗಳ ದೊಡ್ಡ ಕುಟುಂಬವಾಗಿದ್ದು ಅದು ಪ್ರಾಣಿಗಳಲ್ಲಿ ಅಥವಾ ಮಾನವರಲ್ಲಿ ಅನಾರೋಗ್ಯಕ್ಕೆ ಕಾರಣವಾಗಬಹುದು. ಮಾನವರಲ್ಲಿ, ಹಲವಾರು ಕರೋನವೈರಸ್ಗಳು ಸಾಮಾನ್ಯ ಶೀತದಿಂದ ಹಿಡಿದು ಮಧ್ಯಪ್ರಾಚ್ಯ ಉಸಿರಾಟದ ಸಿಂಡ್ರೋಮ್ \(MERS\) ಮತ್ತು ತೀವ್ರವಾದ ತೀವ್ರ ಉಸಿರಾಟದ ಸಿಂಡ್ರೋಮ್ \(SARS\) ನಂತಹ ತೀವ್ರವಾದ ಉಸಿರಾಟದ ತೊಂದರೆಯನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ. ಇತ್ತೀಚೆಗೆ ಪತ್ತೆಯಾದ ಕರೋನವೈರಸ್, ಕೊರೊನಾವೈರಸ್ ಕಾಯಿಲೆ COVID-19 ಗೆ ಕಾರಣವಾಗುತ್ತದೆ.
 
-## What is COVID-19?
+## COVID-19 ಎಂದರೇನು?
 
-COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.
+COVID-19 ಎಂಬುದು ಇತ್ತೀಚೆಗೆ ಪತ್ತೆಯಾದ ಕೊರೊನಾವೈರಸ್‌ನಿಂದ ಉಂಟಾಗುವ ಸಾಂಕ್ರಾಮಿಕ ಕಾಯಿಲೆಯಾಗಿದೆ. ಚೀನಾದ ವುಹಾನ್‌ನಲ್ಲಿ 2019 ರ ಡಿಸೆಂಬರ್‌ನಲ್ಲಿ ಏಕಾಏಕಿ ಪ್ರಾರಂಭವಾಗುವ ಮೊದಲು ಈ ಹೊಸ ವೈರಸ್ ಮತ್ತು ರೋಗ ಎಲ್ಲೂ ತಿಳಿದಿರಲಿಲ್ಲ.
 
-## What are the symptoms of COVID-19 ?
+## COVID-19 ನ ಲಕ್ಷಣಗಳು ಯಾವುವು?
 
-The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea. These symptoms are usually mild and begin gradually. Some people become infected but don’t develop any symptoms and don't feel unwell. Most people \(about 80%\) recover from the disease without needing special treatment. Around 1 out of every 6 people who gets COVID-19 becomes seriously ill and develops difficulty breathing. Older people, and those with underlying medical problems like high blood pressure, heart problems or diabetes, are more likely to develop serious illness. People with fever, cough and difficulty breathing should seek medical attention.
+COVID-19 ನ ಸಾಮಾನ್ಯ ಲಕ್ಷಣಗಳು ಜ್ವರ, ದಣಿವು ಮತ್ತು ಒಣ ಕೆಮ್ಮು. ಕೆಲವು ರೋಗಿಗಳಿಗೆ ನೋವು, ಮೂಗಿನ ದಟ್ಟಣೆ, ಸ್ರವಿಸುವ ಮೂಗು, ಗಂಟಲು ನೋವು ಅಥವಾ ಅತಿಸಾರ ಇರಬಹುದು. ಈ ಲಕ್ಷಣಗಳು ಸಾಮಾನ್ಯವಾಗಿ ಸೌಮ್ಯವಾಗಿರುತ್ತವೆ ಮತ್ತು ಕ್ರಮೇಣ ಪ್ರಾರಂಭವಾಗುತ್ತವೆ. ಕೆಲವು ಜನರು ಸೋಂಕಿಗೆ ಒಳಗಾಗುತ್ತಾರೆ ಆದರೆ ಯಾವುದೇ ರೋಗಲಕ್ಷಣಗಳನ್ನು ಬೆಳಸಿಕೊಳ್ಳುವುದಿಲ್ಲ. ಹೆಚ್ಚಿನ ಜನರು \(ಸುಮಾರು 80%\) ವಿಶೇಷ ಚಿಕಿತ್ಸೆಯ ಅಗತ್ಯವಿಲ್ಲದೆ ರೋಗದಿಂದ ಚೇತರಿಸಿಕೊಳ್ಳುತ್ತಾರೆ. COVID-19 ಪಡೆಯುವ ಪ್ರತಿ 6 ಜನರಲ್ಲಿ ಒಬ್ಬರು ತೀವ್ರವಾಗಿ ಅನಾರೋಗ್ಯಕ್ಕೆ ಒಳಗಾಗುತ್ತಾರೆ ಮತ್ತು ಉಸಿರಾಟದ ತೊಂದರೆ ಉಂಟಾಗುತ್ತದೆ. ವಯಸ್ಸಾದವರು, ಮತ್ತು ಅಧಿಕ ರಕ್ತದೊತ್ತಡ, ಹೃದಯ ಸಮಸ್ಯೆಗಳು ಅಥವಾ ಮಧುಮೇಹದಂತಹ ವೈದ್ಯಕೀಯ ಸಮಸ್ಯೆಗಳನ್ನು ಹೊಂದಿರುವವರು ಗಂಭೀರ ಕಾಯಿಲೆಗೆ ಒಳಗಾಗುವ ಸಾಧ್ಯತೆ ಹೆಚ್ಚು. ಜ್ವರ, ಕೆಮ್ಮು ಮತ್ತು ಉಸಿರಾಟದ ತೊಂದರೆ ಇರುವವರು ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆ ಪಡೆಯಬೇಕು.
 
-## How does COVID-19 spread ?
+## COVID-19 ಹೇಗೆ ಹರಡುತ್ತದೆ?
 
-People can catch COVID-19 from others who have the virus. The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter \(3 feet\) away from a person who is sick.
+ಜನರು ವೈರಸ್ ಹೊಂದಿರುವ ಇತರರಿಂದ COVID-19 ಅನ್ನು ಹಿಡಿಯಬಹುದು. ವ್ಯಕ್ತಿಯು ಸೀನುವಾಗ ಅಥವಾ ಕೆಮ್ಮಿದಾಗ ವೈರಸ್ ಪೀಡಿತ ವ್ಯಕ್ತಿಯ ಮೂಗು ಅಥವಾ ಬಾಯಿನಿಂದ ಸಣ್ಣ ಹನಿಗಳ ಮೂಲಕ ವೈರಸ್ ಹರಡುತ್ತದೆ. ಈ ಹನಿಗಳು ಮೂಲದಿಂದ 1 ಮೀಟರ್‌ಗಿಂತ ಹೆಚ್ಚು ಹಾರಬಲ್ಲದು ಮತ್ತು ವಸ್ತುಗಳ ಮೇಲೆ ಕೂರಬಹುದು. ಇತರರು ಆ ವಸ್ತುವನ್ನು ಸ್ಪರ್ಶಿಸಿ, ನಂತರ ಅವರ ಕಣ್ಣು, ಬಾಯಿ ಅಥವಾ ಮೂಗನ್ನು ಸ್ಪರ್ಶಿಸಿದರೆ ಅವರಿಗೆ ವೈರಸ್ ಹರಡಬಹುದು. ಪೀಡಿತ ವ್ಯಕ್ತಿಯ ನಡುವಿನ ಅಂತರವು ಒಂದು ಮೀಟರ್‌ಗಿಂತ ಕಡಿಮೆಯಿದ್ದಲ್ಲಿ ಈ ಹನಿಗಳನ್ನು ಉಸಿರಾಡುವ ಮೂಲಕವೂ ವೈರಸ್ ಹರಡಬಹುದು.
 
-> WHO is assessing ongoing research on the ways COVID-19 is spread and will continue to share updated findings.
+> COVID-19 ಹರಡುವ ವಿಧಾನಗಳ ಕುರಿತು ನಡೆಯುತ್ತಿರುವ ಸಂಶೋಧನೆಯನ್ನು WHO ನಿರ್ಣಯಿಸುತ್ತಿದೆ ಮತ್ತು ನವೀಕರಿಸಿದ ಸಂಶೋಧನೆಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದನ್ನು ಮುಂದುವರಿಸುತ್ತದೆ.
 
-## What can i do to protect myself and prevent the spread of disease ?
+## ನನ್ನನ್ನು ರಕ್ಷಿಸಿಕೊಳ್ಳಲು ಮತ್ತು ರೋಗ ಹರಡುವುದನ್ನು ತಡೆಯಲು ನಾನು ಏನು ಮಾಡಬಹುದು?
 
-> You can reduce your chances of being infected or spreading COVID-19 by taking some simple precautions:
+> ಕೆಲವು ಸರಳ ಮುನ್ನೆಚ್ಚರಿಕೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವ ಮೂಲಕ ನೀವು ಸೋಂಕಿಗೆ ಒಳಗಾಗುವ ಅಥವಾ COVID-19 ಹರಡುವ ಸಾಧ್ಯತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಬಹುದು:
 
-* Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.
-* Maintain at least 1 metre \(3 feet\) distance between yourself and anyone who is coughing or sneezing.
-* Avoid touching eyes, nose and mouth.
-* Make sure you, and the people around you, follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue when you cough or sneeze. Then dispose of the used tissue immediately.
-* Stay home if you feel unwell. If you have a fever, cough and difficulty breathing, seek medical attention and call in advance. Follow the directions of your local health authority.
-* Keep up to date on the latest COVID-19 hotspots \(cities or local areas where COVID-19 is spreading widely\). If possible, avoid traveling to places  – especially if you are an older person or have diabetes, heart or lung disease.
+* ನಿಯಮಿತವಾಗಿ ಮತ್ತು ಸಂಪೂರ್ಣವಾಗಿ ನಿಮ್ಮ ಕೈಗಳನ್ನು ಆಲ್ಕೋಹಾಲ್ ಆಧಾರಿತ ಹ್ಯಾಂಡ್ ರಬ್ನಿಂದ ಸ್ವಚ್ಛಗೊಳಿಸಿ ಅಥವಾ ಸೋಪ್ ಮತ್ತು ನೀರಿನಿಂದ ತೊಳೆಯಿರಿ.
+* ಕೆಮ್ಮು ಅಥವಾ ಸೀನುವವರಿಂದ ಕನಿಷ್ಠ 1 ಮೀಟರ್ \(3 ಅಡಿ\) ಅಂತರವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿ.
+* ನಿಮ್ಮ ಕಣ್ಣು, ಮೂಗು ಮತ್ತು ಬಾಯಿಯನ್ನು ಮುಟ್ಟುವುದನ್ನು ನಿಯಂತ್ರಿಸಿ.
+* ನೀವು ಮತ್ತು ನಿಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಜನರು ಉತ್ತಮ ಉಸಿರಾಟದ ನೈರ್ಮಲ್ಯವನ್ನು ಅನುಸರಿಸುತ್ತೀರಾ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ. ಇದರರ್ಥ, ನೀವು ಕೆಮ್ಮುವಾಗ ಅಥವಾ ಸೀನುವಾಗ ನಿಮ್ಮ ಬಾಗಿದ ಮೊಣಕೈ ಅಥವಾ ಅಂಗಾಂಶದಿಂದ ನಿಮ್ಮ ಬಾಯಿ ಮತ್ತು ಮೂಗನ್ನು ಮುಚ್ಚಿಕೊಳ್ಳುವುದು. ನಂತರ ಬಳಸಿದ ಅಂಗಾಂಶವನ್ನು ತಕ್ಷಣ ಸರಿಯಾಗಿ ವಿಲೇವಾರಿ ಮಾಡುವುದು.
+* ನಿಮಗೆ ಅನಾರೋಗ್ಯ ಅನಿಸಿದರೆ ಮನೆಯಲ್ಲೇ ಇರಿ. ನಿಮಗೆ ಜ್ವರ, ಕೆಮ್ಮು ಮತ್ತು ಉಸಿರಾಟದ ತೊಂದರೆ ಇದ್ದರೆ, ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆ ಪಡೆಯಿರಿ ಮತ್ತು ಮುಂಚಿತವಾಗಿ ಕರೆ ಮಾಡಿ. ನಿಮ್ಮ ಸ್ಥಳೀಯ ಆರೋಗ್ಯ ಪ್ರಾಧಿಕಾರದ ನಿರ್ದೇಶನಗಳನ್ನು ಅನುಸರಿಸಿ.
+* ಇತ್ತೀಚಿನ COVID-19 ಹಾಟ್‌ಸ್ಪಾಟ್‌ಗಳ\(ನಗರಗಳು ಅಥವಾ COVID-19 ವ್ಯಾಪಕವಾಗಿ ಹರಡುತ್ತಿರುವ ಸ್ಥಳೀಯ ಪ್ರದೇಶಗಳು\) ಬಗ್ಗೆ ತಿಳಿದಿರಿ. ಸಾಧ್ಯವಾದರೆ, ಪ್ರಯಾಣಿಸುವುದನ್ನು ತಪ್ಪಿಸಿ - ವಿಶೇಷವಾಗಿ ನೀವು ವಯಸ್ಸಾದವರಾಗಿದ್ದರೆ ಅಥವಾ ಮಧುಮೇಹ, ಹೃದಯ ಅಥವಾ ಶ್ವಾಸಕೋಶದ ಕಾಯಿಲೆ ಇದ್ದರೆ.
 
-## How likely am I to catch COVID-19 ?
+## ನಾನು COVID-19 ಅನ್ನು ಹಿಡಿಯುವ ಸಾಧ್ಯತೆ ಎಷ್ಟು?
 
-The risk depends on where you are - and more specifically, whether there is a COVID-19 outbreak unfolding there.
+ಅಪಾಯವು ನೀವು ಎಲ್ಲಿದ್ದೀರಿ ಎಂಬುದರ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿರುತ್ತದೆ - ಮತ್ತು ಹೆಚ್ಚು ನಿರ್ದಿಷ್ಟವಾಗಿ ಹೇಳುವುದಾದರೆ, COVID-19 ಏಕಾಏಕಿ ಅಲ್ಲಿ ಹರಡುತ್ತದೆಯೇ ಎಂಬುದು.
 
-For most people in most locations the risk of catching COVID-19 is still low. However, there are now places around the world \(cities or areas\) where the disease is spreading. For people living in, or visiting, these areas the risk of catching COVID-19 is higher. Governments and health authorities are taking vigorous action every time a new case of COVID-19 is identified. Be sure to comply with any local restrictions on travel, movement or large gatherings. Cooperating with disease control efforts will reduce your risk of catching or spreading COVID-19.
+ಹೆಚ್ಚಿನ ಸ್ಥಳಗಳಲ್ಲಿ ಹೆಚ್ಚಿನ ಜನರಿಗೆ COVID-19 ಅನ್ನು ಹಿಡಿಯುವ ಅಪಾಯ ಇನ್ನೂ ಕಡಿಮೆ. ಆದಾಗ್ಯೂ, ಈಗ ಪ್ರಪಂಚದಾದ್ಯಂತ \(ನಗರಗಳು ಅಥವಾ ಪ್ರದೇಶಗಳು\) ರೋಗ ಹರಡುವ ಸ್ಥಳಗಳಿವೆ. ಈ ಪ್ರದೇಶಗಳಲ್ಲಿ ವಾಸಿಸುವ ಅಥವಾ ಭೇಟಿ ನೀಡುವ ಜನರಿಗೆ, COVID-19 ಅನ್ನು ಹಿಡಿಯುವ ಅಪಾಯ ಹೆಚ್ಚು. COVID-19 ನ ಹೊಸ ಪ್ರಕರಣವನ್ನು ಗುರುತಿಸಿದಾಗಲೆಲ್ಲಾ ಸರ್ಕಾರಗಳು ಮತ್ತು ಆರೋಗ್ಯ ಅಧಿಕಾರಿಗಳು ತೀವ್ರ ಕ್ರಮ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದಾರೆ. ಪ್ರಯಾಣ, ಚಲನೆ ಅಥವಾ ದೊಡ್ಡ ಕೂಟಗಳಲ್ಲಿ ಯಾವುದೇ ಸ್ಥಳೀಯ ನಿರ್ಬಂಧಗಳನ್ನು ಅನುಸರಿಸಲು ಮರೆಯದಿರಿ. ರೋಗ ನಿಯಂತ್ರಣ ಪ್ರಯತ್ನಗಳಿಗೆ ಸಹಕರಿಸುವುದರಿಂದ COVID-19 ಅನ್ನು ಹಿಡಿಯುವ ಅಥವಾ ಹರಡುವ ಅಪಾಯವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ.
 
-COVID-19 outbreaks can be contained and transmission stopped, as has been shown in China and some other countries. Unfortunately, new outbreaks can emerge rapidly. It’s important to be aware of the situation where you are or intend to go. WHO publishes daily updates on the COVID-19 situation worldwide.
+ಚೀನಾ ಮತ್ತು ಇತರ ಕೆಲವು ದೇಶಗಳಲ್ಲಿ ತೋರಿಸಿರುವಂತೆ COVID-19 ಏಕಾಏಕಿ ಒಳಗೊಂಡಿರಬಹುದು ಮತ್ತು ಪ್ರಸರಣವನ್ನು ನಿಲ್ಲಿಸಬಹುದು. ದುರದೃಷ್ಟವಶಾತ್, ಹೊಸ ಏಕಾಏಕಿ ವೇಗವಾಗಿ ಹೊರಹೊಮ್ಮಬಹುದು. ನೀವು ಇರುವಲ್ಲಿ ಅಥವಾ ಹೋಗಲು ಉದ್ದೇಶಿಸುವ ಪ್ರದೇಶದಲ್ಲಿನ ಪರಿಸ್ಥಿತಿಯ ಬಗ್ಗೆ ಜಾಗೃತರಾಗಿರುವುದು ಮುಖ್ಯ. WHO ವಿಶ್ವಾದ್ಯಂತ COVID-19 ಪರಿಸ್ಥಿತಿಯ ಕುರಿತು ದೈನಂದಿನ ನವೀಕರಣಗಳನ್ನು ಪ್ರಕಟಿಸುತ್ತದೆ.
 
-## Who is at risk of developing severe illness ?
+## ಯಾರಲ್ಲಿ ತೀವ್ರ ಅನಾರೋಗ್ಯ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ?
 
-While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions \(such as high blood pressure, heart disease, lung disease, cancer or diabetes\) appear to develop serious illness more often than others.
+COVID-2019 ಜನರ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ ಎಂಬುದರ ಕುರಿತು ನಾವು ಇನ್ನೂ ತಿಳಿಯುತ್ತಿದ್ದರೂ, ವಯಸ್ಸಾದ ವ್ಯಕ್ತಿಗಳು ಮತ್ತು ವೈದ್ಯಕೀಯ ಸಮಸ್ಯೆ ಹೊಂದಿರುವ ವ್ಯಕ್ತಿಗಳು \(ಅಧಿಕ ರಕ್ತದೊತ್ತಡ, ಹೃದ್ರೋಗ, ಶ್ವಾಸಕೋಶದ ಕಾಯಿಲೆ, ಕ್ಯಾನ್ಸರ್ ಅಥವಾ ಮಧುಮೇಹ\) ಇತರರಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ಗಂಭೀರ ಕಾಯಿಲೆಗೆ ಒಳಗಾಗುತ್ತಾರೆ.
 
-## Are there any medicines or therapies that can prevent or cure COVID-19 ?
+## COVID-19 ಅನ್ನು ತಡೆಯುವ ಅಥವಾ ಗುಣಪಡಿಸುವ ಯಾವುದೇ ಔಷಧಿಗಳು ಅಥವಾ ಚಿಕಿತ್ಸೆಗಳು ಇದೆಯೇ?
 
-While some western, traditional or home remedies may provide comfort and alleviate symptoms of COVID-19, there is no evidence that current medicine can prevent or cure the disease. WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19. However, there are several ongoing clinical trials that include both western and traditional medicines. WHO will continue to provide updated information as soon as clinical findings are available.
+ಕೆಲವು ಪಾಶ್ಚಿಮಾತ್ಯ, ಸಾಂಪ್ರದಾಯಿಕ ಅಥವಾ ಮನೆಮದ್ದುಗಳು COVID-19 ನ ರೋಗಲಕ್ಷಣಗಳನ್ನು ನಿವಾರಿಸುತ್ತದೆ ಮತ್ತು ನಿವಾರಿಸಬಹುದು, ಆದರೆ ಪ್ರಸ್ತುತ ಔಷಧವು ರೋಗವನ್ನು ತಡೆಗಟ್ಟುತ್ತದೆ ಅಥವಾ ಗುಣಪಡಿಸುತ್ತದೆ ಎಂಬುದಕ್ಕೆ ಯಾವುದೇ ಪುರಾವೆಗಳಿಲ್ಲ. COVID-19 ಅನ್ನು ತಡೆಗಟ್ಟಲು ಅಥವಾ ಗುಣಪಡಿಸಲು ಪ್ರತಿಜೀವಕಗಳನ್ನು\(ಅಂಟಿಬಿಯೋಟಿಕ್ಸ್\) ಒಳಗೊಂಡಂತೆ ಯಾವುದೇ ರೀತಿಯ ಔಷಧಿಗಳನ್ನು WHO ಶಿಫಾರಸು ಮಾಡುವುದಿಲ್ಲ. ಆದಾಗ್ಯೂ, ಪಾಶ್ಚಿಮಾತ್ಯ ಮತ್ತು ಸಾಂಪ್ರದಾಯಿಕ ಔಷಧಿಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಹಲವಾರು ಕ್ಲಿನಿಕಲ್ ಪ್ರಯೋಗಗಳಿವೆ. ಕ್ಲಿನಿಕಲ್ ಆವಿಷ್ಕಾರಗಳು ಲಭ್ಯವಾದ ತಕ್ಷಣ WHO ನವೀಕರಿಸಿದ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸುವುದನ್ನು ಮುಂದುವರಿಸುತ್ತದೆ.
 
-## Should I wear a mask to protect myself ?
+## ನನ್ನನ್ನು ರಕ್ಷಿಸಿಕೊಳ್ಳಲು ನಾನು ಮುಖವಾಡ ಧರಿಸಬೇಕೇ?
 
-Only wear a mask if you are ill with COVID-19 symptoms \(especially coughing\) or looking after someone who may have COVID-19. Disposable face mask can only be used once. If you are not ill or looking after someone who is ill then you are wasting a mask. There is a world-wide shortage of masks, so WHO urges people to use masks wisely.
+ನೀವು COVID-19 ರೋಗಲಕ್ಷಣಗಳಿಂದ \(ವಿಶೇಷವಾಗಿ ಕೆಮ್ಮು\) ಅನಾರೋಗ್ಯದಿಂದ ಬಳಲುತ್ತಿದ್ದರೆ ಅಥವಾ COVID-19 ಹೊಂದಿರುವ ಯಾರನ್ನಾದರೂ ನೋಡಿಕೊಳ್ಳುತ್ತಿದ್ದರೆ ಮಾತ್ರ ಮುಖವಾಡ ಧರಿಸಿ. ಬಿಸಾಡಬಹುದಾದ ಫೇಸ್ ಮಾಸ್ಕ್ ಅನ್ನು ಒಮ್ಮೆ ಮಾತ್ರ ಬಳಸಬಹುದು. ನೀವು ಅನಾರೋಗ್ಯಕ್ಕೆ ಒಳಗಾಗದಿದ್ದರೆ ಅಥವಾ ಅನಾರೋಗ್ಯದಿಂದ ಬಳಲುತ್ತಿರುವ ವ್ಯಕ್ತಿಯನ್ನು ನೋಡಿಕೊಳ್ಳುತ್ತಿಲ್ಲ ಎಂದರೆ ನೀವು ಮುಖವಾಡವನ್ನು ವ್ಯರ್ಥ ಮಾಡುತ್ತಿದ್ದೀರಿ. ಪ್ರಪಂಚದಾದ್ಯಂತ ಮುಖವಾಡಗಳ ಕೊರತೆ ಇದೆ, ಆದ್ದರಿಂದ ಮುಖವಾಡಗಳನ್ನು ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ ಬಳಸಬೇಕೆಂದು WHO ಜನರನ್ನು ಒತ್ತಾಯಿಸುತ್ತದೆ.
 
-WHO advises rational use of medical masks to avoid unnecessary wastage of precious resources and mis-use of masks \(see Advice on the use of masks\).
+ಅಮೂಲ್ಯವಾದ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಅನಗತ್ಯವಾಗಿ ವ್ಯರ್ಥ ಮಾಡುವುದನ್ನು ಮತ್ತು ಮುಖವಾಡಗಳನ್ನು ತಪ್ಪಾಗಿ ಬಳಸುವುದನ್ನು ತಪ್ಪಿಸಲು ವೈದ್ಯಕೀಯ ಮುಖವಾಡಗಳನ್ನು ತರ್ಕಬದ್ಧವಾಗಿ ಬಳಸಲು WHO ಸಲಹೆ ನೀಡುತ್ತದೆ \(ಮುಖವಾಡಗಳ ಬಳಕೆಯ ಬಗ್ಗೆ ಸಲಹೆ ನೋಡಿ\).
 
-The most effective ways to protect yourself and others against COVID-19 are to frequently clean your hands, cover your cough with the bend of elbow or tissue and maintain a distance of at least 1 meter \(3 feet\) from people who are coughing or sneezing. See basic protective measures against the new coronavirus for more information.
+COVID-19 ರ ವಿರುದ್ಧ ನಿಮ್ಮನ್ನು ಮತ್ತು ಇತರರನ್ನು ರಕ್ಷಿಸಿಕೊಳ್ಳುವ ಅತ್ಯಂತ ಪರಿಣಾಮಕಾರಿ ಮಾರ್ಗವೆಂದರೆ ನಿಮ್ಮ ಕೈಗಳನ್ನು ಆಗಾಗ್ಗೆ ಸ್ವಚ್ಛಗೊಳಿಸುವುದು, ಕೆಮ್ಮುವಾಗ ಮೊಣಕೈ ಅಥವಾ ಅಂಗಾಂಶದಿಂದ ನಿಮ್ಮ ಬಾಯನ್ನು ಮುಚ್ಚಿಕೊಳ್ಳುವುದು ಮತ್ತು ಕೆಮ್ಮುವ ಅಥವಾ ಸೀನುವ ಜನರಿಂದ ಕನಿಷ್ಠ 1 ಮೀಟರ್ \(3 ಅಡಿ\) ದೂರವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವುದು.
 
-## Is there anything I should not do ?
+## ನಾನು ಮಾಡಬಾರದು ಏನಾದರೂ ಇದೆಯೇ?
 
-The following measures **ARE NOT effective** against COVID-19 and can be harmful:
+ಕೆಳಗಿನ ಕ್ರಮಗಳು COVID-19 **ವಿರುದ್ಧ ಪರಿಣಾಮಕಾರಿಯಾಗಿಲ್ಲ** ಮತ್ತು ಹಾನಿಕಾರಕವಾಗಬಹುದುl:
 
-* Smoking
-* Wearing multiple masks
-* Taking antibiotics
+* ಧೂಮಪಾನ
+* ಮುಖವಾಡಗಳನ್ನು ಧರಿಸುವುದು
+* ಪ್ರತಿಜೀವಕಗಳನ್ನು\(ಅಂಟಿಬಿಯೋಟಿಕ್ಸ್\) ತೆಗೆದುಕೊಳ್ಳುವುದು
 
-In any case, if you have fever, cough and difficulty breathing seek medical care early to reduce the risk of developing a more severe infection and be sure to share your recent travel history with your health care provider.
+ಯಾವುದೇ ಸಂದರ್ಭದಲ್ಲಿ, ನಿಮಗೆ ಜ್ವರ, ಕೆಮ್ಮು ಮತ್ತು ಉಸಿರಾಟದ ತೊಂದರೆ ಇದ್ದರೆ ಹೆಚ್ಚು ತೀವ್ರವಾದ ಸೋಂಕಿನ ಅಪಾಯವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಮೊದಲೇ ವೈದ್ಯಕೀಯ ಆರೈಕೆಯನ್ನು ಮಾಡಿ ಮತ್ತು ನಿಮ್ಮ ಇತ್ತೀಚಿನ ಪ್ರಯಾಣದ ಇತಿಹಾಸವನ್ನು ನಿಮ್ಮ ಆರೋಗ್ಯ ರಕ್ಷಣೆಯವರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಲು ಮರೆಯದಿರಿ.
 
-## Read more about it at:
+## ಇದರ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ಓದಿ:
 
 * [https://www.who.int/news-room/q-a-detail/q-a-coronaviruses](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses)
 * [https://www.cdc.gov/coronavirus/2019-ncov/faq.html](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
