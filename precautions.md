@@ -1,45 +1,45 @@
 ---
-description: Describes the necessary preventive measures to the spread of COVID-19
+description: COVID-19 ಹರಡುವುದನ್ನು ತಡೆಗಟ್ಟಲು ಅಗತ್ಯವಾದ ಕ್ರಮಗಳನ್ನು ವಿವರಿಸುತ್ತದೆ
 ---
 
 # ಮುನ್ನೆಚ್ಚರಿಕೆಗಳು ಮತ್ತು ತಡೆಗಟ್ಟುವ ಕ್ರಮಗಳು
 
-Even though COVID-19 is a highly contagious disease, taking adequate precautions can help prevent you from being infected.
+COVID-19 ತುಂಬಾ ಸಾಂಕ್ರಾಮಿಕವಾಗಿದ್ದರೂ ಸಹಾ, ಕೆಲವು ಮುನ್ನೆಚ್ಚರಿಕೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದರಿಂದ ನೀವು ಸೋಂಕಿಗೆ ಒಳಗಾಗುವುದನ್ನು ತಡೆಯಬಹುದು.
 
-The virus spread through small droplets from the nose or mouth of the affected person, when the person sneezes or coughs. These droplets can travel more than 1 meter from the source and might land on objects and surfaces. Other people can catch the virus by touching the surface and then touching their eyes, mouth or nose. The virus can also be caught by inhaling these droplets if the distance between the affected person is less than one meter.
+ವ್ಯಕ್ತಿಯು ಸೀನುವಾಗ ಅಥವಾ ಕೆಮ್ಮಿದಾಗ ವೈರಸ್ ಪೀಡಿತ ವ್ಯಕ್ತಿಯ ಮೂಗು ಅಥವಾ ಬಾಯಿನಿಂದ ಸಣ್ಣ ಹನಿಗಳ ಮೂಲಕ ವೈರಸ್ ಹರಡುತ್ತದೆ. ಈ ಹನಿಗಳು ಮೂಲದಿಂದ 1 ಮೀಟರ್‌ಗಿಂತ ಹೆಚ್ಚು ಹಾರಬಲ್ಲದು ಮತ್ತು ವಸ್ತುಗಳ ಮೇಲೆ ಕೂರಬಹುದು. ಇತರರು ಆ ವಸ್ತುವನ್ನು ಸ್ಪರ್ಶಿಸಿ, ನಂತರ ಅವರ ಕಣ್ಣು, ಬಾಯಿ ಅಥವಾ ಮೂಗನ್ನು ಸ್ಪರ್ಶಿಸಿದರೆ ಅವರಿಗೆ ವೈರಸ್ ಹರಡಬಹುದು. ಪೀಡಿತ ವ್ಯಕ್ತಿಯ ನಡುವಿನ ಅಂತರವು ಒಂದು ಮೀಟರ್‌ಗಿಂತ ಕಡಿಮೆಯಿದ್ದಲ್ಲಿ ಈ ಹನಿಗಳನ್ನು ಉಸಿರಾಡುವ ಮೂಲಕವೂ ವೈರಸ್ ಹರದಬಹುದು.
 
-## Preventive Measures
+## ತಡೆಗಟ್ಟುವ ಕ್ರಮಗಳು
 
-There is no data showing that the virus can be transmitted through air. Hence, follow these steps to protect yourselves and the ones around you.
+ವೈರಸ್ ಗಾಳಿಯ ಮೂಲಕ ಹರಡಬಹುದು ಎಂಬುದಕ್ಕೆ ಯಾವುದೇ ರೀತಿಯ ಆದರ ಇಲ್ಲ. ಆದ್ದರಿಂದ, ನಿಮ್ಮನ್ನು ಮತ್ತು ನಿಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನವರನ್ನು ರಕ್ಷಿಸಲು ಈ ಕ್ರಮಗಳನ್ನು ಅನುಸರಿಸಿ.
 
 {% hint style="danger" %}
-If you are above 60+ years of age or have any existing or past medical condition such as Heart diseases, Diabetes, Respiratory Diseases, Hypertension or any serious illness, you will have to take special precautions here.
+ನೀವು 60 ವರ್ಷಕ್ಕಿಂತ ಮೇಲ್ಪಟ್ಟವರಾಗಿದ್ದರೆ ಅಥವಾ ಹೃದ್ರೋಗಿಗಳು, ಮಧುಮೇಹಿಗಳು, ಉಸಿರಾಟದ ಕಾಯಿಲೆ ಇರುವವರು, ಅಧಿಕ ರಕ್ತದೊತ್ತಡ ಅಥವಾ ಯಾವುದೇ ಗಂಭೀರ ಕಾಯಿಲೆ ಇದಾವರದಲ್ಲಿ, ನೀವು ಇಲ್ಲಿ ವಿಶೇಷ ಮುನ್ನೆಚ್ಚರಿಕೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕಾಗುತ್ತದೆ.
 {% endhint %}
 
 {% page-ref page="old-and-people-with-medical-issues.md" %}
 
-### Washing your hands frequently
+### ನಿಮ್ಮ ಕೈಗಳನ್ನು ಆಗಾಗ್ಗೆ ತೊಳೆಯುವುದು
 
-Since transmission mainly occurs through your hands, you should wash them frequently and thoroughly. It is recommended to use soap and water when available, else use hand sanitizers with sufficient amount of alcohol to kill off the germs.
+ವೈರಸ್ ಮುಖ್ಯವಾಗಿ ನಿಮ್ಮ ಕೈಗಳ ಮೂಲಕ ಹರಡುವುದರಿಂದ, ನೀವು ಅವುಗಳನ್ನು ಆಗಾಗ್ಗೆ ಚೆನ್ನಾಗಿ ತೊಳೆಯಬೇಕು. ಲಭ್ಯವಿರುವಾಗ ಸಾಬೂನು ಮತ್ತು ನೀರನ್ನು ಬಳಸಲು ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ, ಇಲ್ಲದಿದ್ದರೆ ಸೂಕ್ಷ್ಮಜೀವಿಗಳನ್ನು ಕೊಲ್ಲಲು ಸಾಕಷ್ಟು ಪ್ರಮಾಣದ ಆಲ್ಕೋಹಾಲ್ ಹೊಂದಿರುವ ಹ್ಯಾಂಡ್ ಸ್ಯಾನಿಟೈಜರ್‌ಗಳನ್ನು ಬಳಸಿ.
 
-> **Wash your hands frequently with soap and water for atleast 20 seconds or an alcohol based hand sanitizer.**
+> ಕನಿಷ್ಠ 20 ಸೆಕೆಂಡುಗಳ ಕಾಲ ಸೋಪ್ ಮತ್ತು ನೀರಿನಿಂದ ಅಥವಾ ಆಲ್ಕೋಹಾಲ್ ಆಧಾರಿತ ಹ್ಯಾಂಡ್ ಸ್ಯಾನಿಟೈಜರ್ ಮೂಲಕ ನಿಮ್ಮ ಕೈಗಳನ್ನು ಆಗಾಗ್ಗೆ ತೊಳೆಯಿರಿ**.**
 
-### Avoid Touching Your Eyes, Nose and Mouth
+### ನಿಮ್ಮ ಕಣ್ಣು, ಮೂಗು ಮತ್ತು ಬಾಯಿಯನ್ನು ಮುಟ್ಟುವುದನ್ನು ನಿಯಂತ್ರಿಸಿ
 
-The virus can come in contact with your skin at any time, particularly your hands. If the contaminated skin touched your eyes, nose or mouth the virus can be transferred into your body thereby infecting you.
+ವೈರಸ್ ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ಚರ್ಮದೊಂದಿಗೆ ಸಂಪರ್ಕಕ್ಕೆ ಬರಬಹುದು, ವಿಶೇಷವಾಗಿ ನಿಮ್ಮ ಕೈಗಳು. ಕಲುಷಿತ ಚರ್ಮವು ನಿಮ್ಮ ಕಣ್ಣುಗಳು, ಮೂಗು ಅಥವಾ ಬಾಯಿಯನ್ನು ಮುಟ್ಟಿದರೆ ವೈರಸ್ ಅನ್ನು ನಿಮ್ಮ ದೇಹಕ್ಕೆ ವರ್ಗಾಯಿಸಿ, ನಿಮಗೆ ಸೋಂಕು ಉಂಟುಮಾಡಬಹುದು.
 
-> **Don't touch your face without washing your hands first.**
+> ಕೈ ತೊಳೆಯದೆ ನಿಮ್ಮ ಮುಖವನ್ನು ಮುಟ್ಟಬೇಡಿ
 
-### **Maintain Distance**
+### ದೂರ ಕಾಪಾಡಿಕೊಳ್ಳಿ
 
-Depending on the level of outbreak in your local community it is [advised ](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)to keep a safe distance of at-least 1 meter \(&gt; 3 feet\) from anyone who is coughing or sneezing. If you are in the vicinity when the person sneezes or coughs they can produce small droplets which you can inhale and become infected if the person is infected.
+ನಿಮ್ಮ ಸ್ಥಳೀಯ ಸಮುದಾಯದಲ್ಲಿ ವೈರಸ್ ಹರಡುವಿಕೆಯ ಮಟ್ಟವನ್ನು ಅವಲಂಬಿಸಿ, ಕೆಮ್ಮು ಅಥವಾ ಸೀನುವ ಯಾರಿಂದಾದರೂ ಕನಿಷ್ಠ 1 ಮೀಟರ್ \(&gt; 3 ಅಡಿ\) ದೂರಇರಲು ಸೂಚಿಸಲಾಗುತ್ತದೆ. ವ್ಯಕ್ತಿಯು ಸೀನುವಾಗ ಅಥವಾ ಕೆಮ್ಮುವಾಗ ನೀವು ಸಮೀಪದಲ್ಲಿದ್ದರೆ ಅವರಿಂದ ಸಣ್ಣ ಹನಿಗಳು ಹೊರಬಂದು, ಅದರಿಂದ ನೀವು ಸೋಂಕಿಗೆ ಒಳಗಾಗಬಹುದು.
 
-### Cover Your Mouth and Nose while Sneezing or Coughing
+### ಸೀನುವಾಗ ಅಥವಾ ಕೆಮ್ಮುವಾಗ ನಿಮ್ಮ ಬಾಯಿ ಮತ್ತು ಮೂಗನ್ನು ಮುಚ್ಚಿಕೊಳ್ಳಿ
 
-If you are coughing or sneezing do so while covering your face with a bent elbow or a hand kerchief. This would help prevent the spread viruses such as Flu, Cold or COVID-19.
+ನೀವು ಕೆಮ್ಮುತ್ತಿದ್ದರೆ ಅಥವಾ ಸೀನುತ್ತಿದ್ದರೆ ನಿಮ್ಮ ಮುಖವನ್ನು ಬಾಗಿದ ಮೊಣಕೈ ಅಥವಾ ಕೆರ್ಚೀಫ್‌ನಿಂದ ಮುಚ್ಚಿಕೊಳ್ಳಿ. ಫ್ಲೂ, ಕೋಲ್ಡ್ ಅಥವಾ COVID-19 ನಂತಹ ಹರಡುವ ವೈರಸ್‌ಗಳನ್ನು ತಡೆಯಲು ಇದು ಸಹಾಯ ಮಾಡುತ್ತದೆ.
 
 {% hint style="info" %}
-If you think you have been infected, follow these specialized instructions for your safety and others.
+ನೀವು ಸೋಂಕಿಗೆ ಒಳಗಾಗಿದ್ದೀರಿ ಎಂದು ನೀವು ಭಾವಿಸಿದರೆ, ನಿಮ್ಮ ಸುರಕ್ಷತೆ ಮತ್ತು ಇತರರ ಸುರಕ್ಷತೆಗಾಗಿ ಈ ವಿಶೇಷ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ.
 {% endhint %}
 
 {% page-ref page="action/i-am-infected.md" %}
