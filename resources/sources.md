@@ -1,22 +1,22 @@
 ---
 description: >-
-  This guide is based on various reliable sources either from Governmental
-  Organizations, Government-authorized sources or Educational Institutions.
+  ಈ ಮಾರ್ಗದರ್ಶಿ ಸರ್ಕಾರಿ ಸಂಸ್ಥೆಗಳು, ಸರ್ಕಾರಿ-ಅಧಿಕೃತ ಮೂಲಗಳು ಅಥವಾ ಶಿಕ್ಷಣ ಸಂಸ್ಥೆಗಳಿಂದ
+  ವಿವಿಧ ವಿಶ್ವಾಸಾರ್ಹ ಮೂಲಗಳನ್ನು ಆಧರಿಸಿದೆ.
 ---
 
 # ಮೂಲಗಳು
 
-## Governmental Organizations
+## ಸರ್ಕಾರಿ ಸಂಸ್ಥೆಗಳು
 
-* World Health Organization, [https://www.who.int/health-topics/coronavirus](https://www.who.int/health-topics/coronavirus)
-* Centers for Disease Control and Prevention CDC, [https://www.cdc.gov/coronavirus/2019-nCoV/summary.html](https://www.cdc.gov/coronavirus/2019-nCoV/summary.html)
-* ECDC, Europa EU, [https://www.ecdc.europa.eu/en/novel-coronavirus-china](https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers)
+* ವಿಶ್ವ ಆರೋಗ್ಯ ಸಂಸ್ಥೆ\(WHO\), [https://www.who.int/health-topics/coronavirus](https://www.who.int/health-topics/coronavirus)
+* ರೋಗ ನಿಯಂತ್ರಣ ಮತ್ತು ತಡೆಗಟ್ಟುವಿಕೆ ಕೇಂದ್ರಗಳು ಸಿಡಿಸಿ\(CDC\), [https://www.cdc.gov/coronavirus/2019-nCoV/summary.html](https://www.cdc.gov/coronavirus/2019-nCoV/summary.html)
+* ಇಸಿಡಿಸಿ\(ECDC\), ಯುರೋಪಾ ಇಯು\(Europa EU\), [https://www.ecdc.europa.eu/en/novel-coronavirus-china](https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers)
 
-## Non Governmental Organizations
+## ಸರ್ಕಾರೇತರ ಸಂಸ್ಥೆಗಳು
 
-* Our World in Data, [https://ourworldindata.org/coronavirus](https://ourworldindata.org/coronavirus)
+* ಅವರ್ ವರ್ಲ್ಡ್ ಇನ್ ಡೇಟಾ\(Our World in Data\), [https://ourworldindata.org/coronavirus](https://ourworldindata.org/coronavirus)
 
-## Educational Institutions
+## ಶೈಕ್ಷಣಿಕ ಸಂಸ್ಥೆಗಳು
 
-* John Hopkins University, [https://coronavirus.jhu.edu/](https://coronavirus.jhu.edu/)
+* ಜಾನ್ ಹೋಪ್ಕಿನ್ಸ್ ಯೂನಿವರ್ಸಿಟಿ\(John Hopkins University\), [https://coronavirus.jhu.edu/](https://coronavirus.jhu.edu/)
 
