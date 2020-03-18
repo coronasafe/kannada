@@ -1,7 +1,5 @@
 ---
-description: >-
-  This page covers the Official Resources released by Governmental
-  Organisations.
+description: ಈ ಪುಟವು ಸರ್ಕಾರಿ ಸಂಸ್ಥೆಗಳು ಬಿಡುಗಡೆ ಮಾಡಿದ ಅಧಿಕೃತ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.
 ---
 
 # ಅಧಿಕೃತ ಸಂಪನ್ಮೂಲಗಳು
