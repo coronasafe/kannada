@@ -1,33 +1,33 @@
 ---
-description: Lists the common myths about COVID-19
+description: COVID-19 ಬಗೆಗಿನ ಸುಳ್ಳು ಸುದ್ದಿಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡುತ್ತದೆ
 ---
 
 # ಕಟ್ಟುಕಥೆಗಳು ಮತ್ತು ಸುಳ್ಳು ಸುದ್ದಿಗಳು
 
-There are a lot of myths and fake news that are both dangerous to yourselves and others circulating on Social Media. Never share any information that you have not verified yourself or that isn't from official sources, it will do more harm than good.
+ಸೋಷಿಯಲ್ ಮೀಡಿಯಾದಲ್ಲಿ ನಿಮಗೆ ಮತ್ತು ಇತರರಿಗೆ ಅಪಾಯಕಾರಿಯಾದ ಬಹಳಷ್ಟು ಕಟ್ಟುಕಥೆಗಳು ಮತ್ತು ಸುಳ್ಳು ಸುದ್ದಿಗಳಿವೆ. ನೀವೇ ಪರಿಶೀಲಿಸದ ಅಥವಾ ಅಧಿಕೃತ ಮೂಲಗಳಿಂದಲ್ಲದ ಯಾವುದೇ ಮಾಹಿತಿಯನ್ನು ಎಂದಿಗೂ ಹಂಚಿಕೊಳ್ಳಬೇಡಿ, ಅದು ಒಳ್ಳೆಯದಕ್ಕಿಂತ ಹೆಚ್ಚು ಹಾನಿ ಮಾಡುತ್ತದೆ.
 
-Here we have compiled a list of common myths and fake news about COVID-19. We have also linked the source of the article which proves it.
+COVID-19 ಬಗೆಗಿನ ಸಾಮಾನ್ಯ ಕಟ್ಟುಕಥೆಗಳು ಮತ್ತು ಸುಳ್ಳು ಸುದ್ದಿಗಳ ಪಟ್ಟಿಯನ್ನು ನಾವು ಇಲ್ಲಿ ಸಂಗ್ರಹಿಸಿದ್ದೇವೆ. ಅದನ್ನು ಖಾತರಿಪಡಿಸುವ ಲೇಖನದ ಮೂಲವನ್ನೂ ನಾವು ಲಿಂಕ್ ಮಾಡಿದ್ದೇವೆ.
 
 {% hint style="info" %}
-Work in Progress, in the meantime refer : [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)
+ಕಾರ್ಯ ಪ್ರಗತಿಯಲ್ಲಿದೆ, ಈ ಮಧ್ಯೆ ಇಲ್ಲಿ ನೋಡಿ : [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)
 {% endhint %}
 
-## Does Drinking water and keeping your throat moist kills COVID-19 ?
+## ನೀರು ಕುಡಿಯುವುದು ಮತ್ತು ನಿಮ್ಮ ಗಂಟಲನ್ನು ತೇವವಾಗಿರಿಸುವುದರಿಂದ COVID-19 ಸಾಯುತ್ತದೆಯೇ?
 
-**No**, There has been messages circulating on Social media stating that drinking \(preferably hot\) water and keeping your throat moist can help prevent an infection. The messages also cite different health organizations. This is a myth.
+**ಇಲ್ಲ**. ನೀರು ಕುಡಿಯುವುದು\(ಬಿಸಿ ನೀರು\) ಮತ್ತು ನಿಮ್ಮ ಗಂಟಲನ್ನು ತೇವವಾಗಿರಿಸುವುದು ಸೋಂಕನ್ನು ತಡೆಗಟ್ಟಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ ಎಂದು ಸೋಶಿಯಲ್ ಮೀಡಿಯಾದಲ್ಲಿ ಸಂದೇಶಗಳನ್ನು ಹರಡಿದೆ. ಸಂದೇಶಗಳು ವಿವಿಧ ಆರೋಗ್ಯ ಸಂಸ್ಥೆಗಳನ್ನು ಉಲ್ಲೇಖಿಸುತ್ತವೆ. ಇವೆಲ್ಲ ಸುಳ್ಳು.
 
 {% hint style="warning" %}
-There \_\*\*\_is no real evidence suggesting that drinking \(hot or cold\) water can help prevent a Corona Virus Infection.
+ಕರೋನಾ ವೈರಸ್ ಸೋಂಕನ್ನು ತಡೆಗಟ್ಟಲು \(ಬಿಸಿ ಅಥವಾ ತಣ್ಣನೆಯ\) ನೀರು ಕುಡಿಯುವುದು ಸಹಾಯ ಮಾಡುತ್ತದೆ ಎಂಬುದಕ್ಕೆ ಯಾವುದೇ ಪುರಾವೆಗಳಿಲ್ಲ.
 {% endhint %}
 
-Source: [https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus](https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus)
+ಮೂಲ: [https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus](https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus)
 
-## Does COVID-19 spread thorough Air ?
+## COVID-19 ಗಾಳಿಯಲ್ಲಿ ಹರಡುತ್ತದೆಯೇ?
 
-**No,** COVID-19 is not airborne, meaning it does not spread through Air. It spreads through contact with droplets containing the virus from the nose and mouths of people who are infected.
+**ಇಲ್ಲ**, COVID-19 ವಾಯುಗಾಮಿ ಅಲ್ಲ, ಅಂದರೆ ಅದು ಗಾಳಿಯ ಮೂಲಕ ಹರಡುವುದಿಲ್ಲ. ಸೋಂಕಿಗೆ ಒಳಗಾದ ಜನರ ಮೂಗು ಮತ್ತು ಬಾಯಿಯಿಂದ ವೈರಸ್ ಹೊಂದಿರುವ ಹನಿಗಳ ಸಂಪರ್ಕದ ಮೂಲಕ ಇದು ಹರಡುತ್ತದೆ.
 
 {% hint style="info" %}
-Even though the virus is not airborne there is still considerable risk as the virus is highly contagious. Follow the instructions given below to take necessary precautions.
+ವೈರಸ್ ವಾಯುಗಾಮಿ ಅಲ್ಲದಿದ್ದರೂ ಸಹ ವೈರಸ್ ಹೆಚ್ಚು ಸಾಂಕ್ರಾಮಿಕವಾಗಿರುವುದರಿಂದ ಸಾಕಷ್ಟು ಅಪಾಯವಿದೆ. ಅಗತ್ಯ ಮುನ್ನೆಚ್ಚರಿಕೆಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ಕೆಳಗೆ ನೀಡಿರುವ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ.
 {% endhint %}
 
 {% page-ref page="precautions.md" %}
