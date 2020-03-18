@@ -5,6 +5,6 @@ description: This page contains detailed information about the COVID-19 Virus St
 # COVID-19 ವೈರಸ್ ತಳಿ
 
 {% hint style="info" %}
-Work in Progress, refer to [https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers](https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers)
+ಕಾರ್ಯ ಪ್ರಗತಿಯಲ್ಲಿದೆ, ಈ ಮಧ್ಯೆ ಇಲ್ಲಿ ನೋಡಿ : [https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers](https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers)
 {% endhint %}
 
